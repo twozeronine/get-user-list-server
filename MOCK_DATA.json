@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "firstName": "Lee",
+    "lastName": "Pirazzi",
+    "email": "lpirazzi0@usda.gov",
+    "gender": "Female"
+  },
+  {
+    "id": 2,
+    "firstName": "Padget",
+    "lastName": "Ianizzi",
+    "email": "pianizzi1@newsvine.com",
+    "gender": "Genderfluid"
+  },
+  {
+    "id": 3,
+    "firstName": "Pamella",
+    "lastName": "Bumby",
+    "email": "pbumby2@usatoday.com",
+    "gender": "Female"
+  },
+  {
+    "id": 4,
+    "firstName": "Gerek",
+    "lastName": "Dumingo",
+    "email": "gdumingo3@printfriendly.com",
+    "gender": "Non-binary"
+  },
+  {
+    "id": 5,
+    "firstName": "Mikaela",
+    "lastName": "Mattsson",
+    "email": "mmattsson4@meetup.com",
+    "gender": "Genderfluid"
+  },
+  {
+    "id": 6,
+    "firstName": "Minda",
+    "lastName": "Hockey",
+    "email": "mhockey5@google.pl",
+    "gender": "Bigender"
+  },
+  {
+    "id": 7,
+    "firstName": "Steven",
+    "lastName": "Nuccitelli",
+    "email": "snuccitelli6@icio.us",
+    "gender": "Male"
+  },
+  {
+    "id": 8,
+    "firstName": "Gerik",
+    "lastName": "Pervew",
+    "email": "gpervew7@dion.ne.jp",
+    "gender": "Genderqueer"
+  },
+  {
+    "id": 9,
+    "firstName": "Sayers",
+    "lastName": "Cosh",
+    "email": "scosh8@umich.edu",
+    "gender": "Genderfluid"
+  },
+  {
+    "id": 10,
+    "firstName": "Humberto",
+    "lastName": "Saynor",
+    "email": "hsaynor9@dyndns.org",
+    "gender": "Female"
+  },
+  {
+    "id": 11,
+    "firstName": "Tait",
+    "lastName": "Waldie",
+    "email": "twaldiea@ycombinator.com",
+    "gender": "Male"
+  },
+  {
+    "id": 12,
+    "firstName": "Shanda",
+    "lastName": "Gowman",
+    "email": "sgowmanb@java.com",
+    "gender": "Female"
+  },
+  {
+    "id": 13,
+    "firstName": "Bern",
+    "lastName": "Trassler",
+    "email": "btrasslerc@eepurl.com",
+    "gender": "Non-binary"
+  },
+  {
+    "id": 14,
+    "firstName": "Ernie",
+    "lastName": "Tefft",
+    "email": "etefftd@infoseek.co.jp",
+    "gender": "Genderfluid"
+  },
+  {
+    "id": 15,
+    "firstName": "Kelley",
+    "lastName": "Christin",
+    "email": "kchristine@java.com",
+    "gender": "Genderqueer"
+  },
+  {
+    "id": 16,
+    "firstName": "Aloisia",
+    "lastName": "Skym",
+    "email": "askymf@artisteer.com",
+    "gender": "Non-binary"
+  },
+  {
+    "id": 17,
+    "firstName": "Drucie",
+    "lastName": "Karchowski",
+    "email": "dkarchowskig@constantcontact.com",
+    "gender": "Male"
+  },
+  {
+    "id": 18,
+    "firstName": "Lilith",
+    "lastName": "Gaisford",
+    "email": "lgaisfordh@mozilla.com",
+    "gender": "Non-binary"
+  },
+  {
+    "id": 19,
+    "firstName": "Ludovika",
+    "lastName": "Huton",
+    "email": "lhutoni@de.vu",
+    "gender": "Polygender"
+  },
+  {
+    "id": 20,
+    "firstName": "Tasia",
+    "lastName": "Temple",
+    "email": "ttemplej@opera.com",
+    "gender": "Bigender"
+  }
+]
