@@ -6,7 +6,7 @@ express로 만든서버입니다.
 
 graphQL를 사용하여 Client 유저목록을 보냅니다.
 
-https://get-user-list.netlify.app/
+서버는 Heroku에 배포하였습니다.
 
 ## Environments
 
