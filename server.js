@@ -5,7 +5,7 @@ const cors = require("cors");
 const bodyParser = require("body-parser");
 const schema = require("./Schema/index");
 const { graphqlHTTP } = require("express-graphql");
-// const port = process.env.PORT || 3002;
+const port = process.env.PORT || "3002";
 
 app.use(cors());
 app.use(bodyParser.json());
@@ -20,6 +20,7 @@ app.use(
 );
 
 // process.env.NODE_ENV === "development";
+
 app.listen(port, () => {
   console.log(`express is running on ${port}`);
 });
